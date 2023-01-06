@@ -1,17 +1,17 @@
 # Hex-game-Web
 
-Composition of the project:
+<h2>Composition of the project:</h2>
 
-2 files ->
+     2 files:
 
      -clientHex1_5.html -> The client side code, containing html, css and JavaScript
      -serveurHex.js -> The server-side code, containing JavaScript
 
-to launch the server: node serverHex.js
-then go to: http://localhost:8888/
+     to launch the server: node serverHex.js
+     then go to: http://localhost:8888/
 
 
-Implemented features:
+<h2>Implemented features:</h2>
 
      -All hands-on, using socket.io
 
@@ -34,6 +34,6 @@ Implemented features:
 
 
 
-Possible improvement:
+<h2>Possible improvement:</h2>
 
      implement CSS to make the interface prettier.
